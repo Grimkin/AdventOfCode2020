@@ -145,6 +145,7 @@
   <ItemGroup>
     <ClInclude Include="Day1.h" />
     <ClInclude Include="Day10.h" />
+    <ClInclude Include="Day11.h" />
     <ClInclude Include="Day2.h" />
     <ClInclude Include="Day3.h" />
     <ClInclude Include="Day4.h" />
@@ -156,6 +157,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="Day10Input.txt" />
+    <Text Include="Day11Input.txt" />
     <Text Include="Day2Input.txt" />
     <Text Include="Day3Input.txt" />
     <Text Include="Day4Input.txt" />
