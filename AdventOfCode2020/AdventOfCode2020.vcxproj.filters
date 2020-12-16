@@ -60,6 +60,9 @@
     <ClInclude Include="Day15.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Day16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="Day2Input.txt">
@@ -102,6 +105,9 @@
       <Filter>InputData</Filter>
     </Text>
     <Text Include="Day15Input.txt">
+      <Filter>InputData</Filter>
+    </Text>
+    <Text Include="Day16Input.txt">
       <Filter>InputData</Filter>
     </Text>
   </ItemGroup>
